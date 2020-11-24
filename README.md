@@ -12,6 +12,8 @@ I sometimes call myself a Forex trader when I make that $1 profit 🍾.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alabobriggs_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falabobriggs&screen_name=alabobriggs)
 
+![](https://komarev.com/ghpvc/?username=alabobriggs)
+
 <br/>
 
 ## I'm a Developer and Designer (Devigner) 
