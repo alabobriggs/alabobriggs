@@ -29,7 +29,7 @@ I sometimes call myself a Forex trader when I make that $1 profit 🍾.
 - Fullstack Web Developer [ABiTNetwork](https://abitnetwork.com/)
 - Lead FE Developer at [Kusnap](https://kusnap.com/)
 - Lead Developer at [Cutstruct](https://cutstruct.com/) where I worked with a team of skilled engineers to build [Livevend](https://livevend.com/), a construction price indexing software solution
-- ... view more connect with me on [LinkedIn](https://www.linkedin.com/)
+- ... view more connect with me on [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161/)
 
 <br/>
 <br/>
