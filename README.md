@@ -4,7 +4,7 @@
 
 I am a software engineer based in Nigeria. I am "primarily" a web Developer experienced in React, Node JS and other additional tools that make an application not to run just on [localhost](http://localhost:3000/).
 <br/>
-With the "right motivation", I also built for Mobile using Flutter and React Native.
+With the "right motivation", I also build for Mobile using Flutter and React Native.
 <br/> I like to call myself a blockchain developer but sadly my skills do not agree 🙃
 <br/>
 I sometimes call myself a Forex trader when I make that $1 profit 🍾.
