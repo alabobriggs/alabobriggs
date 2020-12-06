@@ -21,7 +21,8 @@ I sometimes call myself a Forex trader when I make that $1 profit 🍾.
 - 🔭 I’m currently working as a Full Stack developer at [Quorum Control](https://github.com/quorumcontrol)
 - 👯 Also working with [Joshua Taylor](http://joshuataylordesign.com/) to build [Parrot](https://parrot.fm/) a Podcast solution that helps you Save, share and discover clips from podcasts
 - 🏢 What is your take on employment process?. Well watch out for the name *Parallel*
-- I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en). We are currently working on a new version of our website and we will appreciate your contribution 👉🏽 [OSCA](https://github.com/oscafrica)
+- 👷🏾‍♀️ I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en). We are currently working on a new version of our website and we will appreciate your contribution 👉🏽 [OSCA](https://github.com/oscafrica)
+- 📝 Currenly learning [Golang](https://golang.org/)
 <br/>
 <br/>
 
