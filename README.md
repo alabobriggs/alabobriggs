@@ -67,5 +67,6 @@ I sometimes call myself a Forex trader when I make that $1 profit 🍾.
 
 <br />
 <br />
+<br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alabobriggs&show_icons=true&count_private=true" alt="alabobriggs" />
+<img src="https://github-readme-stats.vercel.app/api?username=alabobriggs&show_icons=true&count_private=true" alt="alabobriggs" />
