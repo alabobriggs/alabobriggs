@@ -2,12 +2,10 @@
 
 <br/>
 
-I am a software engineer based in Nigeria. I am "primarily" a web Developer experienced in React, Node JS and other additional tools that make an application not to run just on [localhost](http://localhost:3000/).
-<br/>
-With the "right motivation", I also build for Mobile using Flutter and React Native.
-<br/> I like to call myself a blockchain developer but sadly my skills do not agree 🙃
-<br/>
-I sometimes call myself a Forex trader when I make that $1 profit 🍾.
+- I am a software engineer based in Nigeria. I am "primarily" a web Developer experienced in React, Node JS and other additional tools that make an application not to run just on [localhost](http://localhost:3000/).
+- With the "right motivation", I also build for Mobile using Flutter and React Native.
+- I like to call myself a blockchain developer but sadly my skills do not agree 🙃.
+- I sometimes call myself a Forex trader when I make that $1 profit 🍾.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/alabobriggs_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falabobriggs&screen_name=alabobriggs_)
