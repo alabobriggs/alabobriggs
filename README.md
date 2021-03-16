@@ -26,7 +26,6 @@
 
 ## Previous Experiences
 - Fullstack Web Developer [ABiTNetwork](https://abitnetwork.com/)
-- Lead FE Developer at [Kusnap](https://v1.kusnap.com/)
 - Lead Developer at Cutstruct Technologies where I worked with a team of skilled engineers to build [Livevend](https://livevend.com/), a construction price indexing software solution and Livevend Pro, a Construction management SaaS.
 - ... view more connect with me on [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161/)
 
