@@ -4,7 +4,6 @@
 
 - I am a software engineer based in Nigeria. I am "primarily" a web Developer experienced in React, React Native, Node JS and other additional tools that make an application not to run just on [localhost](http://localhost:3000/).
 - With the "right motivation", I also build for Mobile using Flutter and React Native.
-- I like to call myself a blockchain developer but sadly my skills do not agree 🙃.
 - I sometimes call myself a Forex trader when I make that $1 profit 🍾.
 
 
@@ -16,7 +15,7 @@
 
 ## I'm a Developer and Designer (Devigner) 
 
-- 🔭 I’m currently working as a Full Stack developer at [Quorum Control](https://github.com/quorumcontrol)
+- 🔭 I’m currently working as a Full-stack web / Blockchain developer at [Quorum Control](https://github.com/quorumcontrol)
 - 👯 Also working with [Joshua Taylor](http://joshuataylordesign.com/) to build [Parrot](https://parrot.fm/) a Podcast solution that helps you Save, share and discover clips from podcasts
 - 🏢 What is your take on employment process?. Well watch out for the name *Parallel*
 - 👷🏾‍♀️ I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en). We are currently working on a new version of our website and we will appreciate your contribution 👉🏽 [OSCA](https://github.com/oscafrica)
@@ -25,7 +24,7 @@
 <br/>
 
 ## Previous Experiences
-- Fullstack Web Developer [ABiTNetwork](https://abitnetwork.com/)
+- Full-stack Web Developer [ABiTNetwork](https://abitnetwork.com/)
 - Lead Developer at Cutstruct Technologies where I worked with a team of skilled engineers to build [Livevend](https://livevend.com/), a construction price indexing software solution and Livevend Pro, a Construction management SaaS.
 - ... view more connect with me on [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161/)
 
