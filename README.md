@@ -2,7 +2,7 @@
 
 <br/>
 
-- I am a software engineer based in Nigeria. I am "primarily" a web Developer experienced in React, React Native, Node JS and other additional tools that make an application not to run just on [localhost](http://localhost:3000/) :) .
+- I am a software engineer based in Nigeria. I am "primarily" a web Developer experienced in React, React Native, Node JS and other tools that make an application not to run just on [localhost](http://localhost:3000/) :) .
 - With the "right motivation", I also build for Mobile using Flutter and React Native.
 - I sometimes call myself a Forex trader when I make that $1 profit 🍾.
 
