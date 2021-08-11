@@ -14,7 +14,7 @@
 
 <br/>
 
-## I am a Software over-stack Engineer
+### I am a Software over-stack Engineer
 
 - 🔭 I currently work as a Full-stack web / Blockchain developer at [Quorum Control](https://github.com/quorumcontrol)
 - 👯 Also working with [Joshua Taylor](http://joshuataylordesign.com/) to build [Parrot](https://parrot.fm/) a Podcast solution that helps you Save, share and discover clips from podcasts
@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-## Previous Experiences
+### Previous Experiences
 - Full-stack Web Developer [ABiTNetwork](https://abitnetwork.com/)
 - Lead Developer at Cutstruct Technologies where I worked with a team of skilled engineers to build [Livevend](https://livevend.com/), a construction price indexing software solution and Livevend Pro, a Construction management SaaS.
 - ... view more connect with me on [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161/)
