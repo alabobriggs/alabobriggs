@@ -38,9 +38,6 @@
 <a href="https://twitter.com/alabobriggs_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a><a href="https://github.com/alabobriggs" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/alabo-briggs-31744a161/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-[<img align="left" alt="alabobriggs_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/alabobriggs_)
-[<img align="left" alt="alabobriggs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alabo-briggs-31744a161/)
-
 <br/>
 <br/>
 
