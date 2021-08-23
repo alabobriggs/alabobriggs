@@ -17,7 +17,6 @@
 ### I am a Software over-stack Engineer
 
 - 🔭 I currently work as a Full-stack web / Blockchain developer at [Quorum Control](https://github.com/quorumcontrol)
-- 👯 Also working with [Joshua Taylor](http://joshuataylordesign.com/) to build [Parrot](https://parrot.fm/) a Podcast solution that helps you Save, share and discover clips from podcasts
 - 🏢 What is your take on employment process?. Well watch out for the name *Parallel*
 - 👷🏾‍♀️ I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en).
 - 📝 Currently learning to get certified on [AWS](https://aws.amazon.com/certification/)
