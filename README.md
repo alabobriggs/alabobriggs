@@ -25,7 +25,7 @@
 
 ### Previous Experiences
 - Full-stack Web Developer [ABiTNetwork](https://abitnetwork.com/)
-- Lead Developer at Cutstruct Technologies where I worked with a team of skilled engineers to build [Livevend](https://livevend.com/), a construction price indexing software solution and Livevend Pro, a Construction management SaaS.
+- Lead Developer at Cutstruct Technologies where I worked with a team of skilled engineers to build [Livevend V1], a construction price indexing software solution and Livevend Pro, a Construction management SaaS.
 - ... view more connect with me on [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161/)
 
 <br/>
