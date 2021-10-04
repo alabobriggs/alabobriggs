@@ -14,7 +14,7 @@
 
 <br/>
 
-### I am a Software over-stack Engineer
+### IAm
 
 - 🔭 I currently work as a Full-stack web / Blockchain developer at [Quorum Control](https://github.com/quorumcontrol)
 - 🏢 What is your take on employment process?. Well watch out for the name *Parallel*
