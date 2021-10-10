@@ -2,7 +2,7 @@
 
 <br/>
 
-- I am a software engineer based in Nigeria. I am "primarily" a Fullstack Developer experienced in AWS, Node (Loopback), Docker, Kubernetes, React, React Native and other tools that make an application not to run just on [localhost](http://localhost:3000/) :) .
+- I am a software engineer I am "primarily" a Fullstack Developer experienced in AWS, Node (Loopback), Docker, Kubernetes, React, React Native and other tools that make an application not to run just on [localhost](http://localhost:3000/) :) .
 - I avoid writing JS where possible :). I mean that's why Typescript exist.
 - With the "right motivation", I also build for Mobile using Flutter and React Native.
 - I sometimes call myself a Forex trader when I make that $1 profit 🍾.
