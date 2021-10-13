@@ -21,7 +21,7 @@ Truth is if I like your idea and you are willing to listen then I will be the be
 
 ### IAm
 
-- 🔭 I currently building [Crypto Colossuem](https://www.cryptocolosseum.com/) as a Software Enginner at [Quorum Control](https://github.com/quorumcontrol).
+- 🔭 I am currently working on [Crypto Colossuem](https://www.cryptocolosseum.com/) as a Software Enginner at [Quorum Control](https://github.com/quorumcontrol).
 - 🏢 What is your take on employment process?. Well watch out for the name *Parallel*
 - 👷🏾‍♀️ I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en).
 - 📝 Student at [Consensys Blockchain Academy](https://consensys.net/academy/)
