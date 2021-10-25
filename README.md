@@ -7,9 +7,6 @@ I am greatful that right now my biggest problems is ensuring my next PR adds mor
 <br/>
 I am working towards getting to a point where being a billonaire isn't what I aim for. See truth is, you will hear my name again so long you are on the internet.
 <br/>
-Want me in your team?
-Truth is if I like your idea and you are willing to listen then I will be the best teammate. 
-<br/>
 <br/>
 "Maybe The Real Treasure Was the Friends We Made Along the Way"
 
