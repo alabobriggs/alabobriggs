@@ -16,7 +16,7 @@ I am working towards getting to a point where being a billonaire isn't what I ai
 
 <br/>
 
-### IAm
+### alabo.eth
 
 - 🔭 I am currently working on [Crypto Colossuem](https://www.cryptocolosseum.com/) as a Software Enginner at [Quorum Control](https://github.com/quorumcontrol).
 - 🏢 What is your take on employment process?. Well watch out for the name *Parallel*
