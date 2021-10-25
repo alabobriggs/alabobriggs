@@ -1,4 +1,4 @@
-### Hi there, I'm Alabo David Briggs 👋🏼
+# Alabo David Briggs 👋🏼 - alabo.eth 
 
 <br/>
 
