@@ -1,12 +1,8 @@
 # Alabo David Briggs 👋🏼 - alabo.eth 
 
 <br/>
+I am greatful that right now my biggest problems is ensuring my next PR adds more value to a user's live.
 
-If there is a table, I want to be on it. That shows you how commited I can be if I am interested.<br/>
-I am greatful that right now my biggest problems is ensuring my next PR adds more value to a users live.
-<br/>
-I am working towards getting to a point where being a billonaire isn't what I aim for. See truth is, you will hear my name again so long you are on the internet.
-<br/>
 <br/>
 "Maybe The Real Treasure Was the Friends We Made Along the Way"
 
