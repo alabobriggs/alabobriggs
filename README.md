@@ -16,8 +16,7 @@ I am greatful that right now my biggest problems is ensuring my next PR adds mor
 
 ### alabo.eth
 
-- 🔭 I am currently working on [Crypto Colossuem](https://www.cryptocolosseum.com/) as a Software Enginner at [Quorum Control](https://github.com/quorumcontrol).
-- 🏢 What is your take on employment process?. Well watch out for the name *Parallel*
+- Work @[Haze Monkey Society](https://www.hazemonkeysociety.com/). Prev BC [Crypto Colossuem](https://www.cryptocolosseum.com/)
 - 👷🏾‍♀️ I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en).
 - 📝 Studied at [Consensys Blockchain Academy](https://consensys.net/academy/)
 <br/>
