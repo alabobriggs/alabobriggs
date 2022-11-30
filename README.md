@@ -16,10 +16,6 @@
 - Work @[Haze Monkey Society](https://www.hazemonkeysociety.com/). Prev BC [Crypto Colossuem](https://www.cryptocolosseum.com/)
 - 👷🏾‍♀️ I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en).
 - 📝 Studied at [Consensys Blockchain Academy](https://consensys.net/academy/)
-<br/>
-<br/>
-
-- ... view more [LinkedIn](https://www.linkedin.com/in/alabo-briggs-31744a161/)
 
 <br/>
 <br/>
