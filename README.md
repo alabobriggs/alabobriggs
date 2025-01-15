@@ -1,28 +1,39 @@
-# alabo.eth 👋🏼 
+# Hi there, I'm **Alabo Briggs** 👋  
 
-<br/>
-"Maybe The Real Treasure Was the Friends We Made Along the Way"
-<br/>
-<br/>
+**Full-Stack Software Engineer | Blockchain Developer | Community Builder**  
 
-![](https://komarev.com/ghpvc/?username=alabobriggs)
+I’m a passionate engineer focused on building innovative solutions, growing communities, and contributing to impactful projects. Whether it's crafting scalable systems, empowering developers, or tackling real-world challenges, I bring creativity and dedication to the table.  
 
-<br/>
+---
 
-### alabo.eth
+### 🛠️ **Tech I'm Skilled In**  
+- **Languages**: JavaScript, TypeScript, Python, Solidity, Rust  
+- **Frameworks**: React, Next.js, Node.js, Express  
+- **Blockchain**: Ethereum, Solana, Sui  
+- **DevOps**: Docker, AWS, CI/CD, GitHub Actions  
+- **Databases**: MongoDB, PostgreSQL, Firebase  
 
-- Work @[Parallel](https://www.useparallel.com/). Prev BC [Crypto Colossuem](https://www.cryptocolosseum.com/)
-- 👷🏾‍♀️ I am also a member of the engineering team at [Open Source Community](https://twitter.com/oscafrica?lang=en).
-- 📝 Studied at [Consensys Blockchain Academy](https://consensys.net/academy/)
+---
 
-<br/>
-<br/>
+### 📈 **Experience Highlights**  
+- **Senior Software Engineer** at **Parallel**: Led engineering teams and built AI-driven recruitment tools.  
+- **Crypto Colosseum**: Helped the platform achieve $2M in volume as the top game on **Polygon** in 2021.  
+- **Nigerian Government Projects**: Delivered impactful solutions for the Nigerian Air Force, Bank of Industries, and Rivers State Government.  
 
-### Connect with me:
+---
 
+### 🎯 **What I Care About**  
+- **Community Building**: Co-founded **Hazron Collective** and grew it to 15,000+ members.  
+- **Mentorship**: Founded **Ministry of Developers** to guide the next generation of engineers.  
+- **Open Source**: Organized the **OSCA Festival**, fostering open-source collaboration.  
+- **Climate Action**: Advocate for sustainability through tree planting and outreach programs.  
 
-<a href="https://twitter.com/alabomarine" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a><a href="https://github.com/alabobriggs" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" /><a href="https://www.linkedin.com/in/alabo-briggs-31744a161/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+---
 
-<br/>
-<br/>
+### 📫 **Let’s Connect**  
+- **LinkedIn**: [linkedin.com/in/alabobriggs](#)  
+- **GitHub**: [github.com/alabobriggs](#)  
+
+💬 **I’m always up for collaborating on impactful projects or mentoring aspiring developers. Let’s build something great together!**
+
+---
